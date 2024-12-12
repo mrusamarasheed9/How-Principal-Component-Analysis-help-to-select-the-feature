@@ -9,8 +9,7 @@ This project demonstrates the application of Principal Component Analysis (PCA) 
 
 ## Contents
 - `Principle_component_analysis.ipynb`: The main Jupyter Notebook containing the PCA implementation.
-- `images/`: Contains visualization files (scatter plots, scree plots, etc.).
-- `docs/`: Additional documentation and references.
+
 
 ## Installation
 To run the project locally, ensure you have the following Python libraries installed:
